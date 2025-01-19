@@ -9,4 +9,4 @@
 ---
 
 ## Demo
-https://aryansjc001.github.io/Chess/
+https://yash-2025og.github.io/Chess/
